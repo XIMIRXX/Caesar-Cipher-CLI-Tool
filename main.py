@@ -1,3 +1,5 @@
+# Make sure art.py is in the same directory
+
 import art
 print(art.logo)
 
